@@ -20,7 +20,7 @@
 <br>
 
 # 主控設備雛型圖
-<div align=center><img src ="https://github.com/alex0613230/flying_probe_test_system/blob/main/pic/prototype.png"/></div>
+<div align=center><img src ="https://github.com/alex0613230/Wi-SUN_light/blob/main/pic/master_pic.png"/></div>
 <br>
 
 # 受控設備雛型圖
